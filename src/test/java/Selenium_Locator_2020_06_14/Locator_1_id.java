@@ -1,4 +1,4 @@
-package Instagram_Selenium_Locators;
+package Selenium_Locator_2020_06_14;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
